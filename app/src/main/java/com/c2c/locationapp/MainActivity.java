@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         String s = "1st add";
         String s1 ="stash add";
-        String s2 = "change 2";
+        String s2 = "change 3";
         String s3 = "new change for cmd";
     }
 }
