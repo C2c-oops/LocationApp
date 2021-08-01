@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         String s = "1st add";
+        String s1 ="stash add";
+        String s2 = "Development add";
     }
 }
