@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         String s = "1st add";
         String s1 ="stash add";
-        String s2 = "Development add";
+        String s2 = "Change 1";
     }
 }
