@@ -10,10 +10,5 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        String s = "1st add";
-        String s1 ="stash add";
-        String s2 = "change 4";
-        String s3 = "new change for cmd";
     }
 }
