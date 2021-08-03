@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Location App</string>
+    <string name="request_location_updates">Request Location Updates</string>
+    <string name="remove_location_updates">Remove Location Updates</string>
 </resources>
